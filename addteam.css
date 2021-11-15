@@ -1,0 +1,64 @@
+
+.head{
+    height: 50px;
+    background-color:whitesmoke;
+}
+.but-logo{
+    width: 12%;
+    font-weight: 600;
+    text-align: center;
+    border: 1px solid rgba(119, 136, 153, 0.2);
+    border-radius: 5%;
+}
+.addteam-style{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 50px;
+}
+.section-1{
+    width: 35%;
+    height: 280px;
+    margin-left: 40px;
+    margin-top: 80px;
+    border: 1px solid gray;
+    background-color: lightskyblue;
+}
+#Logo{
+    height:200px;
+      background-color: lightskyblue;
+  }
+  
+  .section-2-label{
+      font-weight: 500;
+      color: whitesmoke;
+      margin-top: 10px;
+      margin-left:40px ;
+  }
+  .section-2-input{
+      width: 80%;
+      background-color: whitesmoke;
+      margin-left:40px ;
+  
+  }
+  .section-1-btn{
+      width: 50%;
+      color: whitesmoke;
+      background-color: yellowgreen;
+      margin-top: 10px;
+      margin-left:40px ;
+  }
+  .section-2{
+      width: 40%;
+      height: 700px;
+      margin-left: 10px;
+      margin-top: 80px;
+      border: 1px solid gray;
+      background-color: lightskyblue;
+  }
+  .section-3-btn{
+      width: 50%;
+      color: whitesmoke;
+      background-color: yellowgreen;
+      margin-top: 10px;
+      margin-left:50px ;
+  }
